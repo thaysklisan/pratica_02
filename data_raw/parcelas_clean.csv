@@ -1,0 +1,96 @@
+parcela_id,data,especie,n_individuos,area_m2,tratamento,altura_m,densidade,bioma,municipio,guilda,ano,mes
+P015,2024-10-12,Cedrela fissilis,27,357.1,controle,8,0.07560907308877064,Mata Atlantica,Ilheus,NA,2024,out
+P014,2024-04-30,Swartzia simplex,20,301.5,impacto,5,0.06633499170812604,Mata Atlantica,Ilheus,NA,2024,abr
+P003,2024-04-19,Swartzia simplex,7,70.4,impacto,12,0.09943181818181818,Cerrado,Una,NA,2024,abr
+P010,2024-06-06,Euterpe edulis,20,58.6,impacto,9,0.341296928327645,Cerrado,Una,NA,2024,jun
+P018,2024-03-04,Euterpe edulis,30,390.1,controle,10,0.07690335811330427,Mata Atlantica,Una,NA,2024,mar
+P022,2024-07-17,Cedrela fissilis,NA,180.1,impacto,10,NA,Cerrado,Una,NA,2024,jul
+P011,2024-03-07,Swartzia simplex,19,191,impacto,17,0.09947643979057591,Cerrado,Ilheus,NA,2024,mar
+P005,2024-05-30,Psidium guajava,17,74.5,controle,14,0.22818791946308725,Mata Atlantica,Itabuna,NA,2024,mai
+P014,2024-03-25,Psidium guajava,16,115.6,impacto,5,0.1384083044982699,Mata Atlantica,Ilheus,NA,2024,mar
+P022,2024-06-13,Euterpe edulis,0,99.7,impacto,13,0,Cerrado,Una,NA,2024,jun
+P025,2024-05-15,Cedrela fissilis,1,279.6,impacto,8,0.0035765379113018594,Mata Atlantica,Ilheus,NA,2024,mai
+P026,2024-02-20,Euterpe edulis,16,120.3,impacto,13,0.13300083125519535,Mata Atlantica,Una,NA,2024,fev
+P027,2024-03-14,Cedrela fissilis,1,326.1,controle,8,0.0030665440049064702,Cerrado,Itabuna,NA,2024,mar
+P005,2024-06-26,Euterpe edulis,12,46.6,impacto,7,0.2575107296137339,Mata Atlantica,Itabuna,NA,2024,jun
+P019,2024-12-27,Swartzia simplex,23,330.6,controle,7,0.06957047791893527,Cerrado,Ilheus,NA,2024,dez
+P027,2024-08-23,Swartzia simplex,16,176.7,impacto,8,0.09054895302773062,Cerrado,Itabuna,NA,2024,ago
+P025,2024-04-07,Swartzia simplex,30,304.8,controle,9,0.09842519685039369,Mata Atlantica,Ilheus,NA,2024,abr
+P028,2024-11-25,Swartzia simplex,2,268.3,controle,10,0.007454342154304882,Cerrado,Itabuna,NA,2024,nov
+P025,2024-08-01,Euterpe edulis,17,183.4,impacto,8,0.09269356597600872,Mata Atlantica,Ilheus,NA,2024,ago
+P009,2024-05-06,Cedrela fissilis,1,254.6,controle,3,0.003927729772191673,Cerrado,Una,NA,2024,mai
+P029,2024-07-30,Swartzia simplex,4,10.2,impacto,10,0.3921568627450981,Cerrado,Itabuna,NA,2024,jul
+P003,2024-06-22,Cedrela fissilis,30,94.7,impacto,10,0.3167898627243928,Cerrado,Una,NA,2024,jun
+P008,2024-09-29,Swartzia simplex,11,284.9,controle,10,0.038610038610038616,Cerrado,Ilheus,NA,2024,set
+P026,2024-10-28,Euterpe edulis,24,93.9,controle,9,0.25559105431309903,Mata Atlantica,Una,NA,2024,out
+P007,2024-11-05,Euterpe edulis,12,327.4,impacto,15,0.03665241295051924,Mata Atlantica,Itabuna,NA,2024,nov
+P010,2024-08-19,Swartzia simplex,9,130,controle,10,0.06923076923076923,Cerrado,Una,NA,2024,ago
+P009,2024-12-31,Psidium guajava,28,278.2,controle,11,0.100647016534867,Cerrado,Una,NA,2024,dez
+P030,2024-08-30,Cedrela fissilis,5,373.7,impacto,7,0.013379716350013381,Cerrado,Una,NA,2024,ago
+P019,2024-12-15,Euterpe edulis,9,55.2,controle,8,0.16304347826086957,Cerrado,Ilheus,NA,2024,dez
+P004,2024-11-30,Swartzia simplex,9,59.8,controle,15,0.1505016722408027,Cerrado,Itabuna,NA,2024,nov
+P014,2024-10-06,Euterpe edulis,5,274.5,impacto,11,0.018214936247723135,Mata Atlantica,Ilheus,NA,2024,out
+P017,2024-04-22,Cedrela fissilis,27,177.3,impacto,7,0.15228426395939085,Cerrado,Una,NA,2024,abr
+P011,2024-04-16,Psidium guajava,15,335.4,controle,8,0.044722719141323794,Cerrado,Ilheus,NA,2024,abr
+P007,2024-05-30,Psidium guajava,15,388.9,controle,5,0.03857032656209823,Mata Atlantica,Itabuna,NA,2024,mai
+P021,2024-06-02,Swartzia simplex,2,37.5,impacto,15,0.05333333333333334,Mata Atlantica,Una,NA,2024,jun
+P012,2024-04-11,Psidium guajava,3,189.3,controle,8,0.01584786053882726,Mata Atlantica,Una,NA,2024,abr
+P015,2024-09-11,Swartzia simplex,26,283.6,impacto,8,0.09167842031029619,Mata Atlantica,Ilheus,NA,2024,set
+P010,2024-06-08,Swartzia simplex,26,43.9,controle,11,0.5922551252847381,Cerrado,Una,NA,2024,jun
+P013,2024-06-03,Swartzia simplex,2,397.2,impacto,8,0.005035246727089627,Cerrado,Itabuna,NA,2024,jun
+P007,2024-01-05,Swartzia simplex,28,108.7,controle,8,0.2575896964121435,Mata Atlantica,Itabuna,NA,2024,jan
+P009,2024-11-21,Euterpe edulis,22,29.3,controle,8,0.7508532423208191,Cerrado,Una,NA,2024,nov
+P009,2024-09-28,Cedrela fissilis,2,277.7,impacto,7,0.007202016564638099,Cerrado,Una,NA,2024,set
+P010,2024-10-06,Cedrela fissilis,30,316.9,impacto,12,0.09466708740927739,Cerrado,Una,NA,2024,out
+P023,2024-10-14,Cedrela fissilis,15,147.9,impacto,7,0.10141987829614604,Mata Atlantica,Itabuna,NA,2024,out
+P027,2024-10-03,Euterpe edulis,1,152.9,impacto,6,0.006540222367560497,Cerrado,Itabuna,NA,2024,out
+P028,2024-02-24,Swartzia simplex,14,122,impacto,10,0.11475409836065574,Cerrado,Itabuna,NA,2024,fev
+P021,2024-11-26,Cedrela fissilis,NA,41.2,controle,7,NA,Mata Atlantica,Una,NA,2024,nov
+P007,2024-08-25,Cedrela fissilis,2,152.5,controle,7,0.013114754098360656,Mata Atlantica,Itabuna,NA,2024,ago
+P021,2024-09-08,Swartzia simplex,8,79.4,controle,16,0.10075566750629722,Mata Atlantica,Una,NA,2024,set
+P027,2024-12-04,Cedrela fissilis,28,219.1,controle,14,0.12779552715654952,Cerrado,Itabuna,NA,2024,dez
+P006,2024-02-08,Swartzia simplex,6,206.5,impacto,8,0.029055690072639227,Mata Atlantica,Ilheus,NA,2024,fev
+P025,2024-11-05,Swartzia simplex,29,378.6,controle,14,0.07659799260433174,Mata Atlantica,Ilheus,NA,2024,nov
+P002,2024-05-16,Cedrela fissilis,30,143.1,impacto,6,0.20964360587002098,Cerrado,Itabuna,NA,2024,mai
+P029,2024-08-13,Euterpe edulis,29,191.2,controle,13,0.15167364016736404,Cerrado,Itabuna,NA,2024,ago
+P005,2024-02-17,Swartzia simplex,8,42.2,controle,4,0.1895734597156398,Mata Atlantica,Itabuna,NA,2024,fev
+P008,2024-03-17,Euterpe edulis,3,345.4,impacto,7,0.008685581933989578,Cerrado,Ilheus,NA,2024,mar
+P012,2024-03-23,Psidium guajava,NA,164.3,controle,10,NA,Mata Atlantica,Una,NA,2024,mar
+P013,2024-07-02,Swartzia simplex,21,297,impacto,5,0.0707070707070707,Cerrado,Itabuna,NA,2024,jul
+P018,2024-02-08,Cedrela fissilis,25,77,impacto,3,0.3246753246753247,Mata Atlantica,Una,NA,2024,fev
+P027,2024-06-16,Cedrela fissilis,27,34.4,impacto,7,0.7848837209302326,Cerrado,Itabuna,NA,2024,jun
+P025,2024-10-12,Cedrela fissilis,28,327.9,impacto,11,0.0853918877706618,Mata Atlantica,Ilheus,NA,2024,out
+P006,2024-04-03,Cedrela fissilis,28,127.4,impacto,6,0.21978021978021978,Mata Atlantica,Ilheus,NA,2024,abr
+P021,2024-09-28,Euterpe edulis,10,152.2,impacto,11,0.0657030223390276,Mata Atlantica,Una,NA,2024,set
+P015,2024-12-09,Swartzia simplex,6,131.7,impacto,6,0.04555808656036447,Mata Atlantica,Ilheus,NA,2024,dez
+P009,2024-11-05,Swartzia simplex,12,24.6,impacto,13,0.4878048780487805,Cerrado,Una,NA,2024,nov
+P015,2024-01-20,Psidium guajava,4,212.3,impacto,10,0.018841262364578427,Mata Atlantica,Ilheus,NA,2024,jan
+P026,2024-12-25,Swartzia simplex,10,274.8,controle,15,0.036390101892285295,Mata Atlantica,Una,NA,2024,dez
+P028,2024-07-13,Swartzia simplex,0,362.3,controle,8,0,Cerrado,Itabuna,NA,2024,jul
+P016,2024-12-14,Psidium guajava,18,20,controle,10,0.9,Mata Atlantica,Itabuna,NA,2024,dez
+P020,2024-06-12,Euterpe edulis,11,395.7,controle,15,0.02779883750315896,Cerrado,Itabuna,NA,2024,jun
+P030,2024-02-21,Swartzia simplex,1,128.1,controle,9,0.0078064012490242,Cerrado,Una,NA,2024,fev
+P006,2024-12-29,Cedrela fissilis,20,376.3,controle,7,0.053149083178315175,Mata Atlantica,Ilheus,NA,2024,dez
+P011,2024-01-22,Swartzia simplex,16,278.2,impacto,12,0.05751258087706686,Cerrado,Ilheus,NA,2024,jan
+P008,2024-06-25,Cedrela fissilis,30,184.3,controle,10,0.16277807921866522,Cerrado,Ilheus,NA,2024,jun
+P022,2024-02-11,Psidium guajava,11,328.4,impacto,4,0.03349573690621194,Cerrado,Una,NA,2024,fev
+P022,2024-11-10,Cedrela fissilis,29,25.4,controle,6,1.141732283464567,Cerrado,Una,NA,2024,nov
+P007,2024-03-24,Swartzia simplex,2,298.2,controle,11,0.00670690811535882,Mata Atlantica,Itabuna,NA,2024,mar
+P016,2024-01-11,Swartzia simplex,29,146,controle,10,0.19863013698630136,Mata Atlantica,Itabuna,NA,2024,jan
+P017,2024-04-30,Swartzia simplex,24,333.4,impacto,9,0.07198560287942413,Cerrado,Una,NA,2024,abr
+P022,2024-10-28,Swartzia simplex,17,218.9,impacto,8,0.07766103243490179,Cerrado,Una,NA,2024,out
+P018,2024-03-25,Psidium guajava,14,117.1,impacto,7,0.11955593509820667,Mata Atlantica,Una,NA,2024,mar
+P017,2024-12-30,Euterpe edulis,21,322.4,impacto,9,0.06513647642679901,Cerrado,Una,NA,2024,dez
+P002,2024-07-12,Swartzia simplex,2,45.7,impacto,11,0.0437636761487965,Cerrado,Itabuna,NA,2024,jul
+P004,2024-04-16,Swartzia simplex,18,334.5,controle,6,0.053811659192825115,Cerrado,Itabuna,NA,2024,abr
+P013,2024-03-17,Swartzia simplex,24,118,impacto,11,0.2033898305084746,Cerrado,Itabuna,NA,2024,mar
+P005,2024-07-16,Cedrela fissilis,17,303.7,impacto,8,0.05597629239380968,Mata Atlantica,Itabuna,NA,2024,jul
+P022,2024-09-05,Cedrela fissilis,16,386,controle,6,0.04145077720207254,Cerrado,Una,NA,2024,set
+P019,2024-07-18,Euterpe edulis,5,41.8,controle,4,0.11961722488038279,Cerrado,Ilheus,NA,2024,jul
+P025,2024-06-08,Cedrela fissilis,9,343.2,impacto,9,0.026223776223776224,Mata Atlantica,Ilheus,NA,2024,jun
+P020,2024-09-06,Euterpe edulis,7,322.9,controle,5,0.021678538247135337,Cerrado,Itabuna,NA,2024,set
+P022,2024-10-18,Swartzia simplex,9,160.2,impacto,7,0.05617977528089888,Cerrado,Una,NA,2024,out
+P025,2024-01-16,Swartzia simplex,25,137.8,controle,8,0.18142235123367198,Mata Atlantica,Ilheus,NA,2024,jan
+P014,2024-02-02,Psidium guajava,12,89.9,controle,12,0.13348164627363737,Mata Atlantica,Ilheus,NA,2024,fev
+P025,2024-02-09,Swartzia simplex,19,232.1,controle,10,0.08186126669538991,Mata Atlantica,Ilheus,NA,2024,fev
+P003,2024-07-18,Swartzia simplex,19,216.6,impacto,7,0.08771929824561404,Cerrado,Una,NA,2024,jul
